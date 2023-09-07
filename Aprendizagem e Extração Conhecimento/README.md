@@ -6,10 +6,10 @@
 This project focuses on the development of various classification models using Python and leveraging the powerful capabilities of the Scikit-Learn library. Classification is a fundamental task in machine learning, and this project explores different algorithms and techniques for building and evaluating these models.
 
 **Contents:**
-- Jupyter Notebook: [Link to the Jupyter Notebook](insert_link_here)
-- Python Code: [Link to the Python Code](insert_link_here)
-- Report: [Link to the Project Report](insert_link_here)
-
+- Jupyter Notebook;
+- Python Code;
+- Report;
+  
 ## About the Project
 
 In this project, we explore the following key aspects:
@@ -30,7 +30,6 @@ In this project, we explore the following key aspects:
 - Python 3.x
 - Scikit-Learn library
 - Jupyter Notebook (for running the provided notebook)
-
 
 ## Contact
 
